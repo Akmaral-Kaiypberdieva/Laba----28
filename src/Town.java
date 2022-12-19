@@ -1,18 +1,14 @@
 import java.util.Random;
-
 public enum Town {
-    TOWN_A,
-    TOWN_B,
-    TOWN_C,
-    TOWN_D,
-    TOWN_E;
+    Paris,
+    Marseilles,
+    Lyon,
+    Toulouse,
+    Nantes,
+    Strasbourg,
+    Montpellier;
 
     public static Town getRandom() {
         return values()[(int) (Math.random() * values().length)];
-    }
-    public static void printTown(){
-        Random random = new Random();
-        int league = random.nextInt(49) + 50;
-        System.out.println(Town.getRandom() + "Расстояние: " + league);
     }
 }

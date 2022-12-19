@@ -1,0 +1,7 @@
+public enum QualityProduct {
+    NORMAL,
+    SLIGHTLY_SPOILED,
+    HALF_SPOILED,
+    ALMOST_ALL_DISAPPEARED,
+    SPOILED_IN_TRASH
+}
