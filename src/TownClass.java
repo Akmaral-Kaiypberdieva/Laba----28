@@ -26,7 +26,6 @@ public class TownClass {
     public int getDistance2() {
           Random random = new Random();
           int league = random.nextInt(49) + 50;
-          System.out.println(Town.getRandom() + " Расстояние: " + league);
           return league;
      }
 

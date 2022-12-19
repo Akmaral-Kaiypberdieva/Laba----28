@@ -22,6 +22,10 @@ public class MerchantAndCart {
         this.speed = speed;
     }
 
+    public MerchantAndCart(TownClass town) {
+        this.town = getTown();
+    }
+
     public static Random getRandom() {
         return random;
     }

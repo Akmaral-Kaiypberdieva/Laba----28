@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87f69074-a7da-43d7-9c71-adb5cf45a72f" name="Changes" comment="Second commit file">
-      <change afterPath="$PROJECT_DIR$/src/MerchantAndCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulator.java" afterDir="false" />
+    <list default="true" id="87f69074-a7da-43d7-9c71-adb5cf45a72f" name="Changes" comment="we have someone realisation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MerchantAndCarts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Products.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Town.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Town.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MerchantAndCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MerchantAndCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TownClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TownClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671219691531</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="we have someone realisation">
+      <created>1671452368303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671452368303</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit git ignore" />
     <MESSAGE value="Second commit file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit file" />
+    <MESSAGE value="we have someone realisation" />
+    <option name="LAST_COMMIT_MESSAGE" value="we have someone realisation" />
   </component>
 </project>
